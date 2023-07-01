@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @painkundai
+- I'm learning to write code
